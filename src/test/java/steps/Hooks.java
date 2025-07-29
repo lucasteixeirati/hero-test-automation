@@ -2,7 +2,7 @@ package steps;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
-import util.DriverFactory;
+import utils.DriverFactory;
 
 public class Hooks {
 

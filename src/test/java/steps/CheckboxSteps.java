@@ -4,7 +4,7 @@ import io.cucumber.java.en.*;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import pages.CheckboxPage;
-import util.DriverFactory;
+import utils.DriverFactory;
 
 public class CheckboxSteps {
 

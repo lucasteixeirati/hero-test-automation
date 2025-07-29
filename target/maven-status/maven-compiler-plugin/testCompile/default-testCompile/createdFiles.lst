@@ -1,4 +1,0 @@
-steps\LoginSteps.class
-pages\LoginPage.class
-utils\BaseTest.class
-runners\RunCucumberTest.class

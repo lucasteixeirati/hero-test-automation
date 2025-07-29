@@ -42,9 +42,9 @@ hero-test/
 O projeto contempla a automação dos seguintes componentes da aplicação:
 
 - [x] Checkboxes
-- [ ] Dropdown
+- [x] Dropdown
 - [ ] File Upload
-- [ ] JavaScript Alerts
+- [x] JavaScript Alerts
 - [ ] Dynamic Controls
 - [ ] Drag and Drop
 - [ ] Broken Images

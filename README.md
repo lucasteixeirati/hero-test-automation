@@ -99,14 +99,6 @@ mvn net.masterthought:maven-cucumber-reporting:generate   -DcucumberOutput=targe
 
 ---
 
-## 👨‍💻 Contribuindo
-
-1. Fork este repositório
-2. Crie uma branch para sua feature
-3. Envie um Pull Request com uma descrição clara
-
----
-
 ## 📋 Requisitos
 
 - Java 11+
